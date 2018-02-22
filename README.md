@@ -8,7 +8,7 @@ To make this process more transparent, it has been decided to source some
 technical information about the Starships on sale from the [Starship
 API](https://swapi.co/documentation#starships).
 
-A Django project some initial data models have been created already. You may need
+A Django project with some initial data models have been created already. You may need
 to do some additional data modelling to satify the requirements.
 
 ## Getting started
