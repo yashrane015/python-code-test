@@ -48,12 +48,12 @@ require.
 
 * We need to be able to import all existing
   [Starships](https://swapi.co/documentation#starships) to the provided Starship
-  Model
-* A potential buyer can browse all Starships
-* A potential buyer can browse all the listings for a given `starship_class`
-* A potential buyer can sort listings by price or time of listing
+  Model.
+* A potential buyer can browse all Starships.
+* A potential buyer can browse all the listings for a given `starship_class`.
+* A potential buyer can sort listings by price or time of listing.
 * To list a Starship as for sale, the user should supply the Starship name and
-  list price
-* A seller can deactivate and reactivate their listing
+  list price.
+* A seller can deactivate and reactivate their listing.
 
 After you are done, create a release branch in your repo and send us the link.
